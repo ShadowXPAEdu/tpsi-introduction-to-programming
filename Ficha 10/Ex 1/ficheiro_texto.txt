@@ -1,0 +1,11 @@
+Ola mundo
+
+Linha 2 do ficheiro de texto
+
+Eu adoro programar
+
+em C
+
+Linha 4 do Ficheiro
+
+FIM
